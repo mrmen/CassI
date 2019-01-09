@@ -1,0 +1,27 @@
+
+/* Class = "UIBarButtonItem"; title = "Effacer"; ObjectID = "1n6-7u-OHp"; */
+"1n6-7u-OHp.title" = "Effacer";
+
+/* Class = "UINavigationItem"; title = "Crédits"; ObjectID = "Oqs-0N-drN"; */
+"Oqs-0N-drN.title" = "Crédits";
+
+/* Class = "UINavigationItem"; title = "CassI"; ObjectID = "PCW-Gl-PRQ"; */
+"PCW-Gl-PRQ.title" = "CassI";
+
+/* Class = "UIBarButtonItem"; title = "Opérateurs"; ObjectID = "RFK-66-pRa"; */
+"RFK-66-pRa.title" = "Opérateurs";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Wrc-To-kaM"; */
+"Wrc-To-kaM.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Opérateurs"; ObjectID = "c7f-Hm-58G"; */
+"c7f-Hm-58G.title" = "Opérateurs";
+
+/* Class = "UITextView"; text = "Cette application a été réalisée à l'aide des bibliothèques suivantes :\n- Algebrite : http://algebrite.org par \"all Algebrite contributors\"\n\t|\n\t -> (License MIT)\n- SideMenu : https://github.com/jonkykong/SideMenu par Jonathan Kent\n\t|\n\t -> (https://raw.githubusercontent.com/jonkykong/SideMenu/master/LICENSE)\n\t\n\t\nCassI de CassI est mis à disposition selon les termes de la licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\nFondé(e) sur une œuvre à https://github.com/mrmen/CassI.\nLes autorisations au-delà du champ de cette licence peuvent être obtenues à http://mrmen.github.io."; ObjectID = "hkJ-gx-5HI"; */
+"hkJ-gx-5HI.text" = "Cette application a été réalisée à l'aide des bibliothèques suivantes :\n- Algebrite : http://algebrite.org par \"all Algebrite contributors\"\n\t|\n\t -> (License MIT)\n- SideMenu : https://github.com/jonkykong/SideMenu par Jonathan Kent\n\t|\n\t -> (https://raw.githubusercontent.com/jonkykong/SideMenu/master/LICENSE)\n\t\n\t\nCassI de CassI est mis à disposition selon les termes de la licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\nFondé(e) sur une œuvre à https://github.com/mrmen/CassI.\nLes autorisations au-delà du champ de cette licence peuvent être obtenues à http://mrmen.github.io.";
+
+/* Class = "UIBarButtonItem"; title = "Retour"; ObjectID = "oUS-Wh-bAf"; */
+"oUS-Wh-bAf.title" = "Retour";
+
+/* Class = "UIBarButtonItem"; title = "Crédits"; ObjectID = "pYG-v0-f6U"; */
+"pYG-v0-f6U.title" = "Crédits";

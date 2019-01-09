@@ -1,0 +1,12 @@
+/* 
+  Functions.strings
+  CassI
+
+  Created by Thomas Etcheverria on 23/12/2018.
+  Copyright © 2018 Belette Team. All rights reserved.
+*/
+simplify ="Simplify";
+expand = "Expand";
+diff = "Diff";
+integral = "Integral";
+solve = "Solve";
