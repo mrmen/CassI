@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <script src="math.js" type="text/javascript"></script>
+  <script src="algebrite.bundle-for-browser.js" type="text/javascript"></script>
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+</head>
+<body>
+
+
+<p id="demo"></p>
+<script  type="text/javascript">document.getElementById('demo').innerHTML = "$$"+Algebrite.run(printlatex(expand((x+1)^2)))+"$$"</script>
+<p id="outp"></p>
+<script  type="text/javascript">
+document.getElementById('outp').innerHTML = "$$"+Algebrite.run("printlatex(d(x))")+"$$"
+</script>
+</body>
+</html>
